@@ -1,5 +1,6 @@
-package com.deep.mmscbeerservice.web.model;
+package com.deep.mmscbeerservice.web;
 
+import com.deep.mmscbeerservice.web.model.BeerDto;
 import org.springframework.data.domain.PageImpl;
 import org.springframework.data.domain.Pageable;
 
